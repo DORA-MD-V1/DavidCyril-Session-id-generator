@@ -1,4 +1,4 @@
-# Wasi-Session-Generator
+# DORA-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -16,17 +16,17 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+[`ℹ️Contact Owner`](https://wa.me/94743454928)
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Itxxwasi/WASI-MD-QR"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Itxxwasi/DORA-MD-QR"><img title="WEB" src="https://i.ibb.co/357BwYKS/2575a9d97b37e98d.jpg/FORK DORA-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/DavidCyril-Session-id-generator)' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
+[`HERE'S AN EXAMPLE OUTPUT`](https://dora-session-test-2d5de70f8522.herokuapp.com)
 # `Owner`
 
  <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
